@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pix">
+        <file>images/home.png</file>
+        <file>images/export.png</file>
+        <file>images/next.png</file>
+    </qresource>
+</RCC>
